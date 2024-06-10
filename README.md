@@ -18,12 +18,9 @@ Nationality     :	Nigerian
   B.S., Physics | The University of Texas at Dallas (May 2020)
 
 ## Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+ ** SOCIAL MEDIA ANALYST ** – Gem Hub Initiative – Abuja, NG	October 2020 - November 2022
+●	Generated comprehensive and visually compelling reports on social media analytics, showcasing trends and key performance indicators.
+●	Utilized advanced analytics tools to carefully assess how well the Organization’s campaigns and initiatives performed on social media.
+●	Presented results to the social media team and stakeholders, earning praise for clarity and practical insights.
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
