@@ -14,8 +14,8 @@ Nationality     :	Nigerian
 
 ## Education
 
-- M.S., Physics | Cardiff Metropolitan University (April 2023)
-- B.S., Physics | The University of Texas at Dallas (May 2020)
+  M.S., Physics | Cardiff Metropolitan University (April 2023)
+  B.S., Physics | The University of Texas at Dallas (May 2020)
 
 ## Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
