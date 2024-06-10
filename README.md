@@ -10,6 +10,11 @@ Marital status:	Single
 Nationality     :	Nigerian
 
 
-# Data Scientist/ Data Analyst
+# Data Scientist / Data Analyst
+
+## Education
+
+M.S., Physics | Cardiff Metropolitan University (April 2023)
+B.S., Physics | The University of Texas at Dallas (May 2020)
 
 
