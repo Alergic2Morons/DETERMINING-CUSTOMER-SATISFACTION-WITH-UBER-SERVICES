@@ -37,5 +37,17 @@ Illustrations
 
 PESTLE analysis was used to examine external factors impacting its business, identifying challenges such as delivery inefficiencies, fake products, and economic instability. Recommendations included improving logistics, increasing pickup centres, and enhancing customer security. Business Data Analysis with Power BI provided insights into customer behaviour and sales trends, revealing a predominance of male customers, a preference for web purchases, and fashion as the best-selling category. Recommendations focused on marketing to female customers, improving the mobile app, and optimizing product supply and promotions. The project underscores the importance of strategic and data-driven approaches to enhance business performance and customer satisfaction.
 
-![Illustrations]()
+### Illustrations
+---
+
+**Gender Distribution by Device Type**
+
+<img src="https://github.com/SukiJaja/Portfolio/assets/171612334/a66ad246-68a0-468a-980b-241856b865bf" width="650" />
+
+
+**Activity Diagram**
+
+<img src="https://github.com/SukiJaja/Portfolio/assets/171612334/96f783bc-bfb8-4668-9ae4-181fb3a053f0" width="650" />
+
+
 
