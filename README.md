@@ -15,7 +15,7 @@
 - Utilized SQL queries to extract data from various internal databases, ensuring data accuracy and reliability.
 - Contributed to the development of advanced Tableau dashboards that provided real-time insights into sales trends, customer behavior, and inventory levels, driving data-driven decision-making.
 - Initiated customer feedback analysis initiatives using sentiment analysis tools, delivering actionable insights that informed product development and personalized marketing strategies.
-- Collaborated closely with the analytics team to spearhead the development of customer segmentation models, fostering a team-centric approach that led to a 10% increase in customer engagement and loyalty.
+- Collaborated closely with the analytics team to spearhead the development of customer segmentation models, fostering a team-centric approach that led to a 16% increase in customer engagement and loyalty.
 
 **SOCIAL MEDIA ANALYST @ Gem Hub Initiative – Abuja, NG	October 2020 - November 2022**
  
