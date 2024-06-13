@@ -29,8 +29,13 @@
 
 Data scraped from Trustpilot was used to perform sentiment analysis with Natural Language Processing (NLP) techniques to classify reviews into positive, negative, and neutral sentiments. Further analysis of word frequency helped identify common themes and issues. The results were visualized using interactive dashboards in Tableau, highlighting key insights such as geographical variations in customer satisfaction and peak review times. The analysis revealed significant dissatisfaction among customers, prompting recommendations for Uber to enhance driver education and service quality. 
 
-Illustrations 
-![EEG Band Dry]()
+### Illustrations 
+
+**Gender Distribution by Device Type**
+
+
+
+
 
 ### E-Commerce Analysis for Jumia Online Store
 [Work]()
