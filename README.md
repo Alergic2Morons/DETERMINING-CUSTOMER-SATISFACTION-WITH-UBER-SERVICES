@@ -31,9 +31,12 @@ Data scraped from Trustpilot was used to perform sentiment analysis with Natural
 
 ### Illustrations 
 
-**Gender Distribution by Device Type**
+**Ratings Map**
+![Rating Per Location](https://github.com/SukiJaja/Portfolio/assets/171612334/09236139-5249-4f21-967e-a0536254341d)
 
 
+**Sentiment Hierarchy Chart**
+<img src="https://github.com/SukiJaja/Portfolio/assets/171612334/f1542a86-a636-4555-8a56-d066eeb7d591" width="650" />
 
 
 
