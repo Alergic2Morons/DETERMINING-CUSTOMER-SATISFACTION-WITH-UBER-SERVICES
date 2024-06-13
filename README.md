@@ -45,6 +45,8 @@ PESTLE analysis was used to examine external factors impacting its business, ide
 <img src="https://github.com/SukiJaja/Portfolio/assets/171612334/a66ad246-68a0-468a-980b-241856b865bf" width="650" />
 
 
+
+
 **Activity Diagram**
 
 <img src="https://github.com/SukiJaja/Portfolio/assets/171612334/96f783bc-bfb8-4668-9ae4-181fb3a053f0" width="650" />
